@@ -1,1 +1,207 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T03:15:05.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.5" etag="IOe77NgVdAGZaEoZDKnr" type="github"><diagram id="72cCUWczZ-HBe8YJLkmM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-22T11:41:11.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="BlFnJG0KuyX93_l2W5A-" version="17.4.5" type="github" pages="3">
+  <diagram id="72cCUWczZ-HBe8YJLkmM" name="Page-1">
+    <mxGraphModel dx="3160" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="60" width="580" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-1" value="Cloud :&amp;nbsp;&lt;br style=&quot;font-size: 22px&quot;&gt;cloud computing : it has been used heavily within the IT industry for so many years.&amp;nbsp;&lt;br style=&quot;font-size: 22px&quot;&gt;&lt;br style=&quot;font-size: 22px&quot;&gt;retails , finance&amp;nbsp;&lt;br style=&quot;font-size: 22px&quot;&gt;&lt;br style=&quot;font-size: 22px&quot;&gt;cloud computing is a&amp;nbsp; remote virtual pool of on demand , shared resources that can be rapidly deployed at scale &lt;br&gt;&lt;br&gt;Virtualization :&amp;nbsp;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Virtualization is&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;technology that lets you create useful IT services using resources that are traditionally bound to hardware&lt;/b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;.&lt;br&gt;&lt;/span&gt;&lt;br&gt;Data centers :&amp;nbsp; large setup of h/w .&lt;br&gt;&lt;br&gt;benefits :&amp;nbsp;&lt;br&gt;1. Easily share the resources&lt;br&gt;2. less waste&amp;nbsp;&lt;br&gt;3. lower operational cost&lt;br&gt;4. more environmental friendly.&lt;br&gt;&lt;br&gt;1. compute : on demand resources( on demand processing power to complete your workload ) .&lt;br&gt;&lt;br&gt;2. storage : can store unstructured data. images, videos, audios,&amp;nbsp;&lt;br&gt;DAS : directly atttached storage : hard / SSD&lt;br&gt;NAS : network attached services&lt;br&gt;SAN : storage attached services.&lt;br&gt;3. databases&lt;br&gt;4. network&amp;nbsp;&lt;br&gt;&lt;br&gt;Databases :&amp;nbsp;&lt;br&gt;db resources will allow you to store structured info.&amp;nbsp;&amp;nbsp;&lt;br&gt;dc :&amp;nbsp; routers, switches , firewall and load balancer ,&amp;nbsp;&lt;br&gt;cloud : routers, switches , firewall and load balancer ,&amp;nbsp; either the mentioned services are managed by end user or service provider(cloud service provider ) :&lt;br&gt;&lt;b&gt;serverless :&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;CC is a remote , virtual pool of on demand , shared resources, that can be rapidly deployed at scale .&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;CP :&amp;nbsp; has a number of physical computers in multiple dcs and they are divided into multiple VMs .&amp;nbsp;&amp;nbsp;&lt;br&gt;Vms : compute, storage db ,network and many other services.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="620" height="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1600" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="2KowDnNJ3ZmemdytM3qk-3" target="2KowDnNJ3ZmemdytM3qk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1820" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1540" width="350" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="2KowDnNJ3ZmemdytM3qk-6" target="2KowDnNJ3ZmemdytM3qk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.935;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;" edge="1" parent="1" source="2KowDnNJ3ZmemdytM3qk-9" target="2KowDnNJ3ZmemdytM3qk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1560" width="165" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1670" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-12" value="Hyperviser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-14" value="Cloud Service Model :&amp;nbsp;&lt;br&gt;SaaS : software as a Service :&amp;nbsp;&lt;br&gt;we can access the s/w over the internet but can not change it." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="440" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-15" value="GSUITE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-16" value="VS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-17" value="office 365" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-19" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="270" width="570" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-20" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-21" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-22" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-23" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-24" value="Hyperviser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="600" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2KowDnNJ3ZmemdytM3qk-25" value="Hardware" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="730" width="720" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vqTzZDnv-hychrO7qk4d" name="Page-2">
+    <mxGraphModel dx="572" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RYN119OHTxcVPq1ooLiP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="60" width="580" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-2" value="Cloud Service Model :&amp;nbsp;&lt;br&gt;IaaS : Platform as a Service :&amp;nbsp;&lt;br&gt;we can access/change OS but not the hardware&lt;br&gt;you can change the software." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="440" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-3" value="S/w" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-4" value="S/w" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-5" value="S/w" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-6" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="270" width="570" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-7" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-8" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-9" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-10" value="VM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-11" value="Hyperviser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="600" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-12" value="Hardware" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="730" width="720" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-13" value="DRaaS: Disaster Recovery as a Service&amp;nbsp;&lt;br&gt;CaaS:&amp;nbsp;&lt;br&gt;MaaS:" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="900" y="500" width="490" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-14" value="1. Proof of Concept :&amp;nbsp;&lt;br&gt;2. Traffic Bursting : US&amp;nbsp;&lt;br&gt;3. Backup And Disaster Recover&amp;nbsp;&lt;br&gt;4. web site and web based services : (CDN ) : apps&amp;nbsp; : CDN redirecting the traffic to a nearby caching server.&lt;br&gt;&lt;br&gt;this can significantly reduce a website&#39;s latency for the users across the globe.&lt;br&gt;&lt;br&gt;&lt;br&gt;5. big data : we need to build and maintainining the specialized resources to hanlde the huge data sets , anc be expensive and complicated.&amp;nbsp;&amp;nbsp;&lt;br&gt;by using the cloud , we have access to&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1010" width="420" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="RYN119OHTxcVPq1ooLiP-15" value="Types of Cloud :&amp;nbsp;&lt;br&gt;1. public cloud&lt;br&gt;2. private cloud&lt;br&gt;3. hybrid cloud&lt;br&gt;4. community cloud" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1000" width="350" height="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2b1vVt0EcU_-fu1YGVuq" name="Page-3">
+    <mxGraphModel dx="2272" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IsKtowH4_TrN4qnKub1b-1" value="Azure : it&#39;s a collection of online services that organizations can use to build host, and deliver apps.&amp;nbsp; &amp;nbsp;for the same there is not need of your own DC or any server because azure runs in mircosoft&#39;s DC around the world.&amp;nbsp; which can be accessed to thier users over the internet.&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-2" value="Azure" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-3" value="Devops" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="80" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-4" value="Storage" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="130" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-5" value="Integration" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="630" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-6" value="Analytics" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="710" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-7" value="Netoworking" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="580" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="IsKtowH4_TrN4qnKub1b-8" target="IsKtowH4_TrN4qnKub1b-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="IsKtowH4_TrN4qnKub1b-8" target="IsKtowH4_TrN4qnKub1b-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="IsKtowH4_TrN4qnKub1b-8" target="IsKtowH4_TrN4qnKub1b-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="IsKtowH4_TrN4qnKub1b-8" target="IsKtowH4_TrN4qnKub1b-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="430" />
+              <mxPoint x="-60" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="IsKtowH4_TrN4qnKub1b-8" target="IsKtowH4_TrN4qnKub1b-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="430" />
+              <mxPoint x="-60" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-8" value="compute" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-9" value="Azure VM" style="whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-11" value="PaaS viz : Azure app service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="380" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-13" value="Azure Container Instances" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="570" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-15" value="Azure Kubernetes Service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="740" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsKtowH4_TrN4qnKub1b-17" value="Azure Functions" style="whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
